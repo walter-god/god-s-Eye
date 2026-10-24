@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Oculus - Global Sensor & Neural Tracking Command",
+  "description": "Fictional AI surveillance platform inspired by God's Eye: real-time computer vision, biometric facial recognition, global sensor networks, and tactical geospatial tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
